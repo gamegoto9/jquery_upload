@@ -26,11 +26,10 @@
     <div class="row">
         <div class="cell">
             <form action="upload/upload_file" class="dropzone" id="my-dropzone">
-
             </form>
             <!-- <div class="dropzone" id="my-dropzone"></div> -->
 
-            <button id="submit-all">Submit all files</button>
+            <button id="submit-all">Submit all files++</button>
         </div>
     </div>
     <div class="row">
